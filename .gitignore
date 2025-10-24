@@ -1,0 +1,22 @@
+# Python and Jupyter defaults
+__pycache__/
+*.py[cod]
+*.pyo
+*.ipynb_checkpoints
+.DS_Store
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Model artifacts / outputs
+artifacts/
+*.joblib
+*.json
+*.csv
+*.png
+
+# IDE configs
+.vscode/
+.idea/
