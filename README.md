@@ -39,7 +39,7 @@ It demonstrates a full, reproducible workflow for training, evaluating, and savi
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/adaboost-regressor.git
+   git clone https://github.com/khaledimran/adaboost-regressor.git
    cd adaboost-regressor
    ```
 2. Open the notebook in **Jupyter** or **Google Colab**:
